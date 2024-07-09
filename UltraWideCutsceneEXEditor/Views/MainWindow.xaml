@@ -10,7 +10,7 @@
         WindowStartupLocation="CenterScreen"
         ResizeMode="CanMinimize"
         Title="Ultrawide HEXEditor v1.0 - u/TheForensicDev"
-        Height="550" 
+        Height="450" 
         Width="600">
 
     <Window.DataContext>
